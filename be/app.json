@@ -1,0 +1,7 @@
+{
+  "name": "Test Architecture Clean",
+  "lang": "es_CO",
+  "version": "0.1",
+  "prefix_api": "/api/",
+  "debug": true
+}

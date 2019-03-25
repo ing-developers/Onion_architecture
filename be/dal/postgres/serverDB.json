@@ -1,0 +1,9 @@
+{
+  "engine": "postgres",
+  "dsn": "",
+  "server": "localhost",
+  "port": "5432",
+  "data_base": "test",
+  "user": "postgres",
+  "password": "302061"
+}

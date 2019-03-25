@@ -1,0 +1,8 @@
+{
+  "err_read_file": "Error al leer el archivo",
+  "err_connect_db": "Error al intentar conectar con el servidor de base de datos",
+  "err_no_implement_engine": "El motor de base de datos no esta soportado",
+  "err_create_register_db": "Error al intentar crear el registro",
+  "err_bad_entity": "El modelo enviado es invalido o no cumple con los requisitos de validación",
+  "crr_create_register_db": "El registro se creo correctamente"
+}

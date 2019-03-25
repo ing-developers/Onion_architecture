@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es_CO">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>App</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container w-25 mt-5">
+        <h1 class="text-center">Registro de productos</h1>
+        <form id="form_product" autocomplete="off">
+            <div class="form-group">
+                <label for="name">Nombre:</label>
+                <input type="text" name="name" id="name" class="form-control" placeholder="Ingrese el nombre del producto" required autofocus>
+            </div>
+            <button type="submit" class="btn btn-success">Registrar</button>
+        </form>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="./js/product.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "engine": "mysql",
+  "dsn": "",
+  "server": "localhost",
+  "port": "3306",
+  "data_base": "test",
+  "user": "root",
+  "password": "302061"
+}

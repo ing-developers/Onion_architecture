@@ -1,0 +1,57 @@
+2019/03/24 17:39:39 Iniciando servidor...
+2019/03/24 17:39:39 Direccion: localhost
+2019/03/24 17:39:39 Puerto: 93
+2019/03/24 17:39:39 ...Informacion de aplicacion...
+2019/03/24 17:39:39 App: Test Architecture Clean
+2019/03/24 17:39:39 Lenguaje: es_CO
+2019/03/24 17:39:39 Version: 0.1
+exit status 2
+2019/03/24 17:39:59 Iniciando servidor...
+2019/03/24 17:39:59 Direccion: localhost
+2019/03/24 17:39:59 Puerto: 93
+2019/03/24 17:39:59 ...Informacion de aplicacion...
+2019/03/24 17:39:59 App: Test Architecture Clean
+2019/03/24 17:39:59 Lenguaje: es_CO
+2019/03/24 17:39:59 Version: 0.1
+2019/03/24 17:41:38 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:15, Name:"Salmon"}}
+exit status 2
+2019/03/24 17:44:27 Iniciando servidor...
+2019/03/24 17:44:27 Direccion: localhost
+2019/03/24 17:44:27 Puerto: 93
+2019/03/24 17:44:27 ...Informacion de aplicacion...
+2019/03/24 17:44:27 App: Test Architecture Clean
+2019/03/24 17:44:27 Lenguaje: es_CO
+2019/03/24 17:44:27 Version: 0.1
+2019/03/24 17:44:34 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:5, Name:"Salmon"}}
+# command-line-arguments
+.\app.go:30:1: syntax error: non-declaration statement outside function body
+# command-line-arguments
+.\app.go:30:1: syntax error: non-declaration statement outside function body
+2019/03/25 15:12:55 Iniciando servidor...
+2019/03/25 15:12:55 Direccion: localhost
+2019/03/25 15:12:55 Puerto: 93
+2019/03/25 15:12:55 ...Informacion de aplicacion...
+2019/03/25 15:12:55 App: Test Architecture Clean
+2019/03/25 15:12:55 Lenguaje: es_CO
+2019/03/25 15:12:55 Version: 0.1
+2019/03/25 15:13:08 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:1, Name:"Salmon2"}}
+2019/03/25 15:13:19 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:false, Error:(*errors.errorString)(0xc00017a430), Mensaje:"El modelo enviado es invalido o no cumple con los requisitos de validación", Datos:interface {}(nil)}
+2019/03/25 15:14:03 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:2, Name:"salmon"}}
+exit status 2
+2019/03/25 15:14:17 Iniciando servidor...
+2019/03/25 15:14:17 Direccion: localhost
+2019/03/25 15:14:17 Puerto: 93
+2019/03/25 15:14:17 ...Informacion de aplicacion...
+2019/03/25 15:14:17 App: Test Architecture Clean
+2019/03/25 15:14:17 Lenguaje: es_CO
+2019/03/25 15:14:17 Version: 0.1
+2019/03/25 15:14:29 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:3, Name:"salmon3"}}
+2019/03/25 15:14:57 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:false, Error:(*errors.errorString)(0xc00017c440), Mensaje:"El modelo enviado es invalido o no cumple con los requisitos de validación", Datos:interface {}(nil)}
+2019/03/25 15:17:03 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:false, Error:interface {}(nil), Mensaje:"El modelo enviado es invalido o no cumple con los requisitos de validación", Datos:interface {}(nil)}
+2019/03/25 15:17:23 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:4, Name:"ddasdfasd"}}
+2019/03/25 15:18:18 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:5, Name:"salmon43"}}
+2019/03/25 15:20:02 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:6, Name:"hola2"}}
+2019/03/25 15:20:15 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:7, Name:"hola23"}}
+2019/03/25 15:20:20 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:8, Name:"dasf33das"}}
+2019/03/25 15:40:15 struct { Estado bool; Error interface {}; Mensaje string; Datos interface {} }{Estado:true, Error:interface {}(nil), Mensaje:"El registro se creo correctamente", Datos:entities.Product{ID:9, Name:"alguna cosa"}}
+exit status 2
